@@ -1,0 +1,5 @@
+name: ChunkProcessor
+main: com.boydti.chunkprocessor.ChunkListener
+version: 1.0.0
+description: ChunkProcessor taken from PlotSquared (auto-trim not implemented properly)
+authors: [Empire92]
